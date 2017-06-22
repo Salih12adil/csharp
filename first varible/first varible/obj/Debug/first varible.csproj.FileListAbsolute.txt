@@ -1,0 +1,6 @@
+D:\New folder (3)\first varible\first varible\bin\Debug\first varible.exe.config
+D:\New folder (3)\first varible\first varible\obj\Debug\first varible.csprojResolveAssemblyReference.cache
+D:\New folder (3)\first varible\first varible\bin\Debug\first varible.exe
+D:\New folder (3)\first varible\first varible\bin\Debug\first varible.pdb
+D:\New folder (3)\first varible\first varible\obj\Debug\first varible.exe
+D:\New folder (3)\first varible\first varible\obj\Debug\first varible.pdb
