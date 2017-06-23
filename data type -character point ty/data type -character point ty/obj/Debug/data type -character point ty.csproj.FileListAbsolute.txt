@@ -1,0 +1,6 @@
+D:\New folder (3)\data type -character point ty\data type -character point ty\bin\Debug\data type -character point ty.exe.config
+D:\New folder (3)\data type -character point ty\data type -character point ty\bin\Debug\data type -character point ty.exe
+D:\New folder (3)\data type -character point ty\data type -character point ty\bin\Debug\data type -character point ty.pdb
+D:\New folder (3)\data type -character point ty\data type -character point ty\obj\Debug\data type -character point ty.csprojResolveAssemblyReference.cache
+D:\New folder (3)\data type -character point ty\data type -character point ty\obj\Debug\data type -character point ty.exe
+D:\New folder (3)\data type -character point ty\data type -character point ty\obj\Debug\data type -character point ty.pdb
