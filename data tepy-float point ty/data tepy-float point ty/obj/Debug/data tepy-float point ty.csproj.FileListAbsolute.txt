@@ -1,0 +1,6 @@
+D:\New folder (3)\data tepy-float point ty\data tepy-float point ty\bin\Debug\data tepy-float point ty.exe.config
+D:\New folder (3)\data tepy-float point ty\data tepy-float point ty\bin\Debug\data tepy-float point ty.exe
+D:\New folder (3)\data tepy-float point ty\data tepy-float point ty\bin\Debug\data tepy-float point ty.pdb
+D:\New folder (3)\data tepy-float point ty\data tepy-float point ty\obj\Debug\data tepy-float point ty.csprojResolveAssemblyReference.cache
+D:\New folder (3)\data tepy-float point ty\data tepy-float point ty\obj\Debug\data tepy-float point ty.exe
+D:\New folder (3)\data tepy-float point ty\data tepy-float point ty\obj\Debug\data tepy-float point ty.pdb
