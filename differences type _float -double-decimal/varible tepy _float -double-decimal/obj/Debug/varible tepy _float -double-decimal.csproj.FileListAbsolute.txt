@@ -1,0 +1,5 @@
+D:\New folder (3)\varible tepy _float -double-decimal\varible tepy _float -double-decimal\bin\Debug\varible tepy _float -double-decimal.exe.config
+D:\New folder (3)\varible tepy _float -double-decimal\varible tepy _float -double-decimal\bin\Debug\varible tepy _float -double-decimal.exe
+D:\New folder (3)\varible tepy _float -double-decimal\varible tepy _float -double-decimal\bin\Debug\varible tepy _float -double-decimal.pdb
+D:\New folder (3)\varible tepy _float -double-decimal\varible tepy _float -double-decimal\obj\Debug\varible tepy _float -double-decimal.exe
+D:\New folder (3)\varible tepy _float -double-decimal\varible tepy _float -double-decimal\obj\Debug\varible tepy _float -double-decimal.pdb
